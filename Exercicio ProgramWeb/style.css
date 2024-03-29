@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+.quadrado {
+    width: 200px; /* Largura do quadrado */
+    height: 200px; /* Altura do quadrado */
+    background-color: #ff0000; /* Cor de fundo do quadrado (vermelho) */
+    position: absolute; /* Posicionamento absoluto */
+    top: 0; /* posicionamento topo*/
+    left: 0; /*posicionamento esquerdo*/
+    color: hsl(0, 0%, 0%); /* Cor do texto */
+    text-align: center; /* Alinhamento do texto */
+    line-height: 100px; /* Centralizar verticalmente */
+    font-size: 35px; /* Tamanho da fonte */
+    font-weight: bold; /* Texto em negrito */
+}
+
+.amarelo {
+    width: 200px; 
+    height: 200px; 
+    background-color: #b5f104;
+    position: absolute; 
+    top: 0;
+    right: 0;
+    color: hsl(0, 0%, 0%); 
+    text-align: center; 
+    line-height: 100px; 
+    font-size: 35px; 
+    font-weight: bold; 
+}
+
+.azul {
+    width: 200px; 
+    height: 200px; 
+    background-color: #0400ff; 
+    position: absolute; 
+    bottom: 0;
+    right: 0;
+    color: hsl(0, 0%, 0%); 
+    text-align: center; 
+    line-height: 100px; 
+    font-size: 35px; 
+    font-weight: bold; 
+}
+
+.verde {
+    width: 200px; 
+    height: 200px; 
+    background-color: #00ff04; 
+    position: absolute; 
+    bottom: 0;
+    left: 0;
+    color: hsl(0, 0%, 0%); 
+    text-align: center; 
+    line-height: 100px; 
+    font-size: 35px; 
+    font-weight: bold; 
+}
